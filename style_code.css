@@ -28,7 +28,7 @@ body {
     border-radius: 15px; /* Adjust the radius to change the roundness */
     padding: 20px;
     box-sizing: border-box;
-    margin: 5%;
+    margin: 2%;
 
     h1{
         color: white;
@@ -90,13 +90,13 @@ body {
 h1{
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 5%;
+    margin: 2%;
 }
 
 p{
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 5%;
+    margin: 2%;
 }
 
 
@@ -105,7 +105,7 @@ p{
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(191, 189, 189, 0.771);
     font-family: 'Courier New', Courier, monospace;
-    margin: 5%;
+    margin: 2%;
 }
 
 
